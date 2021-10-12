@@ -23,8 +23,8 @@
 ![(mongodb)](https://user-images.githubusercontent.com/60516927/137001133-784b4179-a751-42c7-8e98-3ba6b2e8566a.png)
 
 ### Познаю технологии
-![[(nextjs)](https://user-images.githubusercontent.com/60516927/137001697-1efa805d-c6ed-4f4e-bec2-80a9aa8cf917.png)](https://nextjs.org/)
-![[(typescript)](https://user-images.githubusercontent.com/60516927/137001712-59061e73-6c06-4109-8511-2cf081f97045.png)](https://typescript-handbook.ru)
+![![(nextjs)](https://user-images.githubusercontent.com/60516927/137001697-1efa805d-c6ed-4f4e-bec2-80a9aa8cf917.png)](https://nextjs.org/)
+![![(typescript)](https://user-images.githubusercontent.com/60516927/137001712-59061e73-6c06-4109-8511-2cf081f97045.png)](https://typescript-handbook.ru)
 
 
 <!--
