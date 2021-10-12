@@ -22,6 +22,11 @@
 ![express_original_logo_icon_146527](https://user-images.githubusercontent.com/60516927/137001127-791ef260-859a-488b-b889-556360914127.png)
 ![mongodb_original_wordmark_logo_icon_146425](https://user-images.githubusercontent.com/60516927/137001133-784b4179-a751-42c7-8e98-3ba6b2e8566a.png)
 
+### Познаю технологии
+![nextjs_icon_132160](https://user-images.githubusercontent.com/60516927/137001697-1efa805d-c6ed-4f4e-bec2-80a9aa8cf917.png)(https://nextjs.org/)
+![file_type_typescript_official_icon_130107](https://user-images.githubusercontent.com/60516927/137001712-59061e73-6c06-4109-8511-2cf081f97045.png)(https://typescript-handbook.ru)
+
+
 <!--
 **RonWinchester/RonWinchester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
