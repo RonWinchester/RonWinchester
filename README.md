@@ -25,7 +25,7 @@
 
 ### Познаю технологии
 [![nextjs](https://user-images.githubusercontent.com/60516927/137001697-1efa805d-c6ed-4f4e-bec2-80a9aa8cf917.png)](https://nextjs.org/)
-[![redux](https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png)](https://redux.js.org/)
+<a href='https://redux.js.org/'><img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png' alt='redux' height='64px'></a>
 [![effector](https://effector.dev/ru/img/comet.png)](https://effector.dev/ru/)
 
 <!--
