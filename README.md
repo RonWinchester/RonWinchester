@@ -22,10 +22,10 @@
 ![(express)](https://user-images.githubusercontent.com/60516927/137001127-791ef260-859a-488b-b889-556360914127.png)
 ![(mongodb)](https://user-images.githubusercontent.com/60516927/137001133-784b4179-a751-42c7-8e98-3ba6b2e8566a.png)
 ![(typescript)](https://user-images.githubusercontent.com/60516927/137001712-59061e73-6c06-4109-8511-2cf081f97045.png)
+<a href='https://redux.js.org/'><img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png' alt='redux' height='64px'></a>
 
 ### Познаю технологии
 [![nextjs](https://user-images.githubusercontent.com/60516927/137001697-1efa805d-c6ed-4f4e-bec2-80a9aa8cf917.png)](https://nextjs.org/)
-<a href='https://redux.js.org/'><img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png' alt='redux' height='64px'></a>
 <a href='https://effector.dev/ru/'><img src='https://effector.dev/ru/img/comet.png' alt='effector' height='64px'></a>
 <a href='https://reactnative.dev/'><img src='https://intreidplus.ru/wp-content/uploads/2019/12/react-native.jpg' alt='react native' height='64px'></a>
 
