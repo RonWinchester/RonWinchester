@@ -13,21 +13,66 @@
 
 ### Стек
 
-![(html)](https://user-images.githubusercontent.com/60516927/137001068-999df3b3-c891-466b-b394-e0ece2773624.png)
-![(css)](https://user-images.githubusercontent.com/60516927/137001081-62c6a60e-7755-4f74-b66b-db457f10290c.png)
-![(git)](https://user-images.githubusercontent.com/60516927/137001094-4bbd0ca9-8a3d-4d61-9cfb-e47e4620e57c.png)
-![(js)](https://user-images.githubusercontent.com/60516927/137001097-d808df3d-2390-4b86-a5a4-590ccb6cc468.png)
-![(react)](https://user-images.githubusercontent.com/60516927/137001101-9e5e4bea-00da-43c3-8d1e-c5dc35aec1bf.png)
-![(node)](https://user-images.githubusercontent.com/60516927/137001122-890ebd21-7d96-43db-8dfa-21b57e528cbb.png)
-![(express)](https://user-images.githubusercontent.com/60516927/137001127-791ef260-859a-488b-b889-556360914127.png)
-![(mongodb)](https://user-images.githubusercontent.com/60516927/137001133-784b4179-a751-42c7-8e98-3ba6b2e8566a.png)
-![(typescript)](https://user-images.githubusercontent.com/60516927/137001712-59061e73-6c06-4109-8511-2cf081f97045.png)
-<a href='https://redux.js.org/'><img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png' alt='redux' height='64px'></a>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height="40" alt="hugo logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+</div>
+
+###
 
 ### Познаю технологии
-[![nextjs](https://user-images.githubusercontent.com/60516927/137001697-1efa805d-c6ed-4f4e-bec2-80a9aa8cf917.png)](https://nextjs.org/)
-<a href='https://effector.dev/ru/'><img src='https://effector.dev/ru/img/comet.png' alt='effector' height='64px'></a>
-<a href='https://reactnative.dev/'><img src='https://intreidplus.ru/wp-content/uploads/2019/12/react-native.jpg' alt='react native' height='64px'></a>
+<div align="left">
+  <img src='https://effector.dev/ru/img/comet.png' alt='effector' height='40'>
+  <img width="12" />
+  <img src='https://intreidplus.ru/wp-content/uploads/2019/12/react-native.jpg' alt='react native' height='40'>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sequelize" height="40" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="graphql logo"  />
+</div>
 
 
 ![](https://komarev.com/ghpvc/?username=RonWinchester&color=green&style=plastic&label=Просмотров)
