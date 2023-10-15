@@ -1,4 +1,4 @@
-## Всем привет, меня зовут Роман! 👋
+## Всем привет, меня зовут Роман! 👋 ![](https://komarev.com/ghpvc/?username=RonWinchester&color=green&style=flat)
 
 * ~~Верстка~~ ✔️
 * Активно улучшаю навыки во фронтенд разработке 🚀
@@ -73,6 +73,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="graphql logo"  />
 </div>
-
-
-![](https://komarev.com/ghpvc/?username=RonWinchester&color=green&style=plastic&label=Просмотров)
