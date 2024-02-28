@@ -1,11 +1,8 @@
-## Всем привет, меня зовут Роман! 👋 ![](https://komarev.com/ghpvc/?username=RonWinchester&color=green&style=flat)
-
-* ~~Верстка~~ ✔️
-* Активно улучшаю навыки во фронтенд разработке 🚀
-* Познаю бекенд часть, в планах fullstack 📚
-* Нравится изучать JS 🔬
+## Привет, меня зовут Роман! 👋 ![](https://komarev.com/ghpvc/?username=RonWinchester&color=green&style=flat)
 
 ### Bio 
+* Фронтенд разработчик
+* Fullstack in progress
 * Бакалавр биологии - спасибо за критическое мышление
 * Умею договариваться с поисковыми алгоритмами
 * Стараюсь писать чистый и понятный код
@@ -57,8 +54,6 @@
 
 ### Познаю технологии
 <div align="left">
-  <img src='https://effector.dev/ru/img/comet.png' alt='effector' height='40'>
-  <img width="12" />
   <img src='https://intreidplus.ru/wp-content/uploads/2019/12/react-native.jpg' alt='react native' height='40'>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
